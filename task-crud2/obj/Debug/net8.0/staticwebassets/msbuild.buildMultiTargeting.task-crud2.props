@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\task-crud2.props" />
+</Project>
