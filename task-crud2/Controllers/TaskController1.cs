@@ -16,6 +16,25 @@ namespace task_crud2.Controllers
             return View(task);
         }
 
-        
+        public IActionResult Create()
+        {
+
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create(task_crud2.Models.Tarea task)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Tareas.Add(task);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(task);
+        }
+
+
+
     }
 }
