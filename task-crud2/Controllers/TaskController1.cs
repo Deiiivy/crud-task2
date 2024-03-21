@@ -34,6 +34,43 @@ namespace task_crud2.Controllers
             return View(task);
         }
 
+        public IActionResult Edit(int id)
+        {
+            var task = _context.Tareas.Find(id);
+
+            if (task == null)
+            {
+                return NotFound();
+            }
+            return View("Editar", task);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(task_crud2.Models.Tarea task)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Tareas.Update(task);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(task);
+        }
+
+
+        [HttpPost]
+
+        public IActionResult Delete(int id)
+        {
+            var task = _context.Tareas.Find(id);
+            if (task == null)
+            {
+                return NotFound();
+            }
+            _context.Tareas.Remove(task);
+            _context.SaveChanges();
+            return RedirectToAction("Index");
+        }
 
 
     }
