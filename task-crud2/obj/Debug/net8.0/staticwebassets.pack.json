@@ -5,8 +5,12 @@
       "PackagePath": "staticwebassets\\task-crud2.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\css\\app_bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\app_bootstrap.css"
     },
     {
       "Id": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\favicon.ico",

@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|c:\\users\\deivy\\onedrive\\documentos\\c#-projects\\task-crud2\\task-crud2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|solutionrelative:task-crud2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|c:\\users\\deivy\\onedrive\\documentos\\c#-projects\\task-crud2\\task-crud2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|solutionrelative:task-crud2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\views\\taskcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|solutionrelative:task-crud2\\views\\taskcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|c:\\users\\deivy\\onedrive\\documentos\\c#-projects\\task-crud2\\task-crud2\\views\\taskcontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\views\\taskcontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|solutionrelative:task-crud2\\views\\taskcontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|solutionrelative:task-crud2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\css\\app_bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|solutionrelative:task-crud2\\wwwroot\\css\\app_bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|solutionrelative:task-crud2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|solutionrelative:task-crud2\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|solutionrelative:task-crud2\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|solutionrelative:task-crud2\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\controllers\\taskcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,14 +55,6 @@
       "RelativeMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|solutionrelative:task-crud2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|solutionrelative:task-crud2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|solutionrelative:task-crud2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBF88848-3CB6-4579-8912-AB60F18496F7}|task-crud2\\task-crud2.csproj|solutionrelative:task-crud2\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -42,65 +66,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Views\\TaskController1\\Create.cshtml",
-              "RelativeDocumentMoniker": "task-crud2\\Views\\TaskController1\\Create.cshtml",
-              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Views\\TaskController1\\Create.cshtml",
-              "RelativeToolTip": "task-crud2\\Views\\TaskController1\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T01:01:47.123Z",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\.gitignore",
+              "RelativeDocumentMoniker": "task-crud2\\.gitignore",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\.gitignore",
+              "RelativeToolTip": "task-crud2\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-21T01:00:51.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Program.cs",
               "RelativeDocumentMoniker": "task-crud2\\Program.cs",
               "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Program.cs",
               "RelativeToolTip": "task-crud2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAD4vx4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T00:50:37.245Z"
+              "WhenOpened": "2024-03-19T00:50:37.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "task-crud2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "task-crud2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "task-crud2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "task-crud2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T00:46:06.322Z"
+              "WhenOpened": "2024-03-21T00:43:16.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "task-crud2\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "task-crud2\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-21T00:28:05.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app_bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\css\\app_bootstrap.css",
+              "RelativeDocumentMoniker": "task-crud2\\wwwroot\\css\\app_bootstrap.css",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\css\\app_bootstrap.css",
+              "RelativeToolTip": "task-crud2\\wwwroot\\css\\app_bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-21T00:26:54.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Views\\TaskController1\\Create.cshtml",
+              "RelativeDocumentMoniker": "task-crud2\\Views\\TaskController1\\Create.cshtml",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Views\\TaskController1\\Create.cshtml",
+              "RelativeToolTip": "task-crud2\\Views\\TaskController1\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T01:01:47.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Views\\TaskController1\\Index.cshtml",
               "RelativeDocumentMoniker": "task-crud2\\Views\\TaskController1\\Index.cshtml",
               "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Views\\TaskController1\\Index.cshtml",
               "RelativeToolTip": "task-crud2\\Views\\TaskController1\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T00:42:10.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T00:42:10.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "task-crud2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "task-crud2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T00:46:06.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\tailwind.config.js",
+              "RelativeDocumentMoniker": "task-crud2\\tailwind.config.js",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\tailwind.config.js",
+              "RelativeToolTip": "task-crud2\\tailwind.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-21T00:26:08.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\package.json",
+              "RelativeDocumentMoniker": "task-crud2\\package.json",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\package.json",
+              "RelativeToolTip": "task-crud2\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T00:09:48.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "TaskController1.cs",
               "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Controllers\\TaskController1.cs",
               "RelativeDocumentMoniker": "task-crud2\\Controllers\\TaskController1.cs",
@@ -112,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Task2Context.cs",
               "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Models\\Task2Context.cs",
               "RelativeDocumentMoniker": "task-crud2\\Models\\Task2Context.cs",
@@ -124,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\appsettings.json",
               "RelativeDocumentMoniker": "task-crud2\\appsettings.json",
@@ -136,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Tarea.cs",
               "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\Models\\Tarea.cs",
               "RelativeDocumentMoniker": "task-crud2\\Models\\Tarea.cs",

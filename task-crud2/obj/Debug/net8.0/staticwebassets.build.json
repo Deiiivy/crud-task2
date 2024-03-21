@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1zJb190Md2+UMnyR1UQlS+P2BsgLiPOjQIxdJ9VIvrk=",
+  "Hash": "6F+0sg7cMTJozsmu+gI5wg5t4Cg4VI0WzC6uBcyVHZM=",
   "Source": "task-crud2",
   "BasePath": "_content/task-crud2",
   "Mode": "Default",
@@ -55,12 +55,12 @@
       "OriginalItemSpec": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\task-crud2.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\css\\app.css",
       "SourceId": "task-crud2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\",
       "BasePath": "_content/task-crud2",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/app.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,7 +71,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\css\\app_bootstrap.css",
+      "SourceId": "task-crud2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\",
+      "BasePath": "_content/task-crud2",
+      "RelativePath": "css/app_bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app_bootstrap.css"
     },
     {
       "Identity": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\task-crud2\\task-crud2\\wwwroot\\favicon.ico",

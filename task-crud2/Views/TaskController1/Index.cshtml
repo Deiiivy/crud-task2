@@ -14,9 +14,13 @@
         <tbody>
         @foreach (var task in Model)
         {
+            <tr>
             <td>@task.IdTask</td>
             <td>@task.Title</td>
             <td>@task.Description</td>
+            </tr>
         }
         </tbody>
     </table>
+
+    <a asp-controller="TaskController1" asp-action="Create">Create task</a>

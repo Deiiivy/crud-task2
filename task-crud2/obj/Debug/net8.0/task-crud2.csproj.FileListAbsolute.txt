@@ -135,3 +135,5 @@ C:\Users\deivy\OneDrive\Documentos\c#-projects\task-crud2\task-crud2\obj\Debug\n
 C:\Users\deivy\OneDrive\Documentos\c#-projects\task-crud2\task-crud2\obj\Debug\net8.0\task-crud2.pdb
 C:\Users\deivy\OneDrive\Documentos\c#-projects\task-crud2\task-crud2\obj\Debug\net8.0\task-crud2.genruntimeconfig.cache
 C:\Users\deivy\OneDrive\Documentos\c#-projects\task-crud2\task-crud2\obj\Debug\net8.0\ref\task-crud2.dll
+C:\Users\deivy\OneDrive\Documentos\c#-projects\task-crud2\task-crud2\bin\Debug\net8.0\package-lock.json
+C:\Users\deivy\OneDrive\Documentos\c#-projects\task-crud2\task-crud2\bin\Debug\net8.0\package.json
