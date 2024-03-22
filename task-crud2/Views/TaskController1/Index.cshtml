@@ -18,6 +18,13 @@
             <td>@task.IdTask</td>
             <td>@task.Title</td>
             <td>@task.Description</td>
+            <td>
+                <a asp-controller="TaskController1" asp-action="Edit" asp-route-id="@task.IdTask">Edit</a>
+                    <form asp-controller="TaskController1" asp-action="Delete" asp-route-id="@task.IdTask" method="post" onsubmit="return  confirm('¿Estás seguro de que quieres eliminar esta tarea?');">
+                        <button type="submit">Delete</button>
+
+                </form>
+            </td>
             </tr>
         }
         </tbody>

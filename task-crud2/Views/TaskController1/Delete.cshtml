@@ -1,0 +1,11 @@
+﻿@model task_crud2.Models.Tarea;
+
+<h1>Delete Task</h1>
+
+<p>¿Estás seguro de que quieres eliminar la tarea "<strong>@Model.Title</strong>"?</p>
+
+<form asp-controller="TaskController1" asp-action="Delete" method="post">
+    <input type="hidden" asp-for="IdTask" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index">Cancel</a>
+</form>

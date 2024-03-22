@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task-crud2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+017bb7f2113d438a60d71421e5eb205f274d80c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66becff36455ca867a4242e1c234dadfa470a44d")]
 [assembly: System.Reflection.AssemblyProductAttribute("task-crud2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task-crud2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

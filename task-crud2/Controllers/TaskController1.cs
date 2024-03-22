@@ -42,7 +42,7 @@ namespace task_crud2.Controllers
             {
                 return NotFound();
             }
-            return View("Editar", task);
+            return View("Edit", task);
         }
 
         [HttpPost]
@@ -71,6 +71,8 @@ namespace task_crud2.Controllers
             _context.SaveChanges();
             return RedirectToAction("Index");
         }
+
+
 
 
     }
